@@ -37,7 +37,7 @@ def lambda_handler(event, context):
         "statusCode": 200,
         "body": json.dumps(
             {
-                "message": "hello world git action test2ccccc22",
+                "message": "hello world git action test2ccccc",
                 # "location": ip.text.replace("\n", "")
             }
         ),
