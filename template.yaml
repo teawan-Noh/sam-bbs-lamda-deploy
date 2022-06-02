@@ -108,7 +108,7 @@ Resources:
 #        SecurityGroupIds:
 #          - sg-08d2eed1871ccea3b
 #        SubnetIds:
-#          - subnet-e6cae1aa      
+#          - subnet-e6cae1aa
       Policies:
         - Statement:
             - Sid: AWSSecretsManagerGetSecretValuePolicy
